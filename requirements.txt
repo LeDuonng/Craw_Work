@@ -1,0 +1,23 @@
+# Thư viện cơ bản
+python-dotenv
+requests
+beautifulsoup4
+selenium
+pandas
+lxml
+
+# Thư viện cho giao diện
+PyQt5
+PyQtWebEngine
+
+# Thư viện cho xử lý dữ liệu
+nltk
+scikit-learn
+
+# Thư viện cho tích hợp API
+openai
+googlemaps
+
+# Thư viện cho tạo file PDF/Word
+python-docx
+reportlab

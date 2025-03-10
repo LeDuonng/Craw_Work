@@ -1,0 +1,10 @@
+# OpenAI API Key
+OPENAI_API_KEY="OPENAI_API_KEY"
+
+# Google Maps API Key
+GOOGLE_MAPS_API_KEY="GOOGLE_MAPS_API_KEY"
+
+# Cấu hình crawl
+MAX_THREADS=10
+TIMEOUT=30
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 
